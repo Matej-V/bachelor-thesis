@@ -1,0 +1,15 @@
+wandb/
+bigcode/
+codellama/
+BP-dataset
+*.parquet
+.env
+__pycache__
+microcoder-4b
+microcoder-16b
+microcoderfim
+microcoder/*.png
+microcoder/*.svg
+microcoder/*.json
+microcoder/*.csv
+.vscode/
