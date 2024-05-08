@@ -43,6 +43,8 @@ Cieľom tejto práce bola adaptácia predtrénovaného jazykového modelu pre ú
 
 ## Ako spustiť skripty
 
+Prvý krok je nastaviť premenné prostredia. Vzor je v súbore `.env.example`.
+
 Pre spustenie skriptov je potrebné mať nainštalované závislosti z `requirements.txt`. Následne je možné spustiť skripty v priečinku `microcoder`.
 
 V knižnici `traintolls.lib` sú definované použité nastavenia je jednotlivé behy trénovania a evaluácie modelov. Pre zmenu nastavení je možné upraviť hodnoty v tejto knižnici.
